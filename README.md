@@ -6,8 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://green-mushroom-00ad00f00.2.azurestaticapps.net/
-**project demo video link** - 
-
+**project demo video link** - https://youtu.be/eT1D1m7OpJk
 ## Azure technologies used for Project
 
 - Static web apps
